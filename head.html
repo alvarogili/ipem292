@@ -1,0 +1,17 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="general.css" title="style">
+<link rel="shortcut icon" href="imagenes/LOGO_ESCUELA.ico" type="image/x-icon">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<title>IPEA N°292 - "Agr. Liliam Priotto"</title>
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#menu li a').click(function(event){
+			var elem = $(this).next();
+			if(elem.is('ul')){
+				event.preventDefault();
+				$('#menu ul:visible').not(elem).slideUp();
+				elem.slideToggle();
+			}
+		});
+	});
+</script>

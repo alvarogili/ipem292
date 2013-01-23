@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Configuration panel -->
+<banner width = "" height = ""
+		startWith = "1" 
+		random = "false"
+		
+		backgroundColor = "0xffffff" 
+		backgroundTransparency = "100"
+		
+		cellWidth = "50"
+		cellHeight = "50"
+		
+		showMinTime = "0.2"
+		showMaxTime = "1.5"
+		
+		blur = "50"
+		netTime = "0.5"
+		alphaNet = "80"
+		netColor = "0x000000"
+		
+		overColor = "0x473C31"
+		normalColor = "0x000000"
+		selectedTextColor = "0xffffff"
+		
+		selectedButtonAlpha = "70"
+		
+		controllerVisible = "true"
+		controllerBackgroundVisible = "true"
+		
+		prevNextVisible = "true"
+		playBtVisible = "true"
+		autoPlay = "true"
+		navigationButtonsColor = "0x1a1a1a"
+		
+		controllerDistanceX = "10"
+		controllerDistanceY = "10"
+		
+		controllerHeight = "27"
+		distanceBetweenControllerElements = "10"
+		distanceBetweenThumbs = "3"
+		
+		itemNumberSize = "12"
+		
+		captionY = "10"
+		captionX = "10"			
+		
+		captionWidth = "390"
+
+		buttonText = "Ampliar Foto"
+		btnNormalColor = "0xffffff"
+		btnOverColor = "0x999999"
+		
+		readMoreBackAlpha = "80"
+		readMoreBackColor = "0x473C31"
+		
+		paddingX = "20"
+		paddingY = "15"
+		
+		btnSpacingW = "50"
+		btnSpacingH = "5"
+		
+		loaderColor = "0x000000">
+<!-- End panel -->
+
+
+<!--If you want to customize your font use, for example:
+	<font color='#FFffff' size='18px' family='Times, Times New Roman'> your text </font> 
+	
+	You can skip all values after link, as these have a default value as well
+-->
+	<item>
+		<path>../../imagenes/secciones/cerdos/cerdos1.jpg</path>
+		<title></title>
+		<caption><![CDATA[CRIADERO EN CONSTRUCCIÓN]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos1.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+	
+	<item>
+		<path>../../imagenes/secciones/cerdos/cerdos2.jpg</path>
+		<title></title>
+		<caption><![CDATA[ALUMNOS CONSTRUYENDO MAQUETA DEL CRIADERO]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos2.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos3.jpg</path>
+		<title></title>
+		<caption><![CDATA[ALUMNOS TRABAJANDRO EN LA CONSTRUCCIÓN]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos3.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos4.jpg</path>
+		<title></title>
+		<caption><![CDATA[ALUMNOS Y PROFESOR COLOCANDO  EL PISO]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos4.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos5.jpg</path>
+		<title></title>
+		<caption><![CDATA[ALUMNOS ULTIMANDO DETALLES]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos5.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos6.jpg</path>
+		<title></title>
+		<caption><![CDATA[ALUMNO REALIZANDO SOLDADURA DE LAS REJAS]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos6.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos7.jpg</path>
+		<title></title>
+		<caption><![CDATA[CRIADERO INTENSIVO DE CERDOS  BAJO GALPÓN]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos7.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos8.jpg</path>
+		<title></title>
+		<caption><![CDATA[LIMPIEZA  EN MODULO DE SERVICIO]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos8.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos9.jpg</path>
+		<title></title>
+		<caption><![CDATA[COLOCACIÓN DE CARAVANAS EN REPRODUCTORES]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos9.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos10.jpg</path>
+		<title></title>
+		<caption><![CDATA[CUMPLIENDO CON EL PLAN SANITARIO]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos10.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos11.jpg</path>
+		<title></title>
+		<caption><![CDATA[TRABAJOS DE SUJECIÓN]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos11.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+	
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos12.jpg</path>
+		<title></title>
+		<caption><![CDATA[CUMPLIENDO CON EL PLAN SANITARIO]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos12.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos13.jpg</path>
+		<title></title>
+		<caption><![CDATA[CERDA EN GESTACIÓN]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos13.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos14.jpg</path>
+		<title></title>
+		<caption><![CDATA[PRIMERAS CRIAS NACIDAS EL 24-04-2011]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos14.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos15.jpg</path>
+		<title></title>
+		<caption><![CDATA[INSTALACIONES  CON MANTAS CLIMATIZADAS]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos15.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos16.jpg</path>
+		<title></title>
+		<caption><![CDATA[PRIMEROS DIAS DE VIDA]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos16.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos17.jpg</path>
+		<title></title>
+		<caption><![CDATA[PRIMERA CAMADA DE LECHONES EN DESTETE CON 23 DÍAS]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos17.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos18.jpg</path>
+		<title></title>
+		<caption><![CDATA[INSTALACIONES ADECUADAS PARA CERDOS EN ETAPA DE DESTETE]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos18.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos19.jpg</path>
+		<title></title>
+		<caption><![CDATA[ALUMNAS REALIZANDO TRABAJO DE CASTRACIÓN]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos19.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos20.jpg</path>
+		<title></title>
+		<caption><![CDATA[PLAN SANITARIO PARA LAS CRIAS]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos20.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+        
+        <item>
+		<path>../../imagenes/secciones/cerdos/cerdos21.jpg</path>
+		<title></title>
+		<caption><![CDATA[CAPACITACIÓN CON EL INTA A PRODUCTORES Y ALUMNOS]]></caption>
+		
+		<target>_blank</target>
+		<link>../../imagenes/secciones/cerdos/cerdos21.jpg</link>
+		
+		<bar_color>0xffffff</bar_color>
+		<bar_transparency>40</bar_transparency>
+		
+		<caption_color>0xffffff</caption_color>
+		<caption_transparency>60</caption_transparency>
+		
+		<stroke_color>0xffffff</stroke_color>
+		<stroke_transparency>60</stroke_transparency>
+		
+		<slideshowTime>4</slideshowTime>
+	</item>
+
+</banner>

@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />    
+	<link rel="shortcut icon" href="../imagenes/LOGO_ESCUELA.ico" type="image/x-icon">	
+	<title>IPEM N°292 - Modo Administrador</title>
+	<link rel="stylesheet" type="text/css" href="admin.css" title="style" />	
+	
+  </head>
+  <body alink="#eff9f5" link="#eff9f5" vlink="#eff9f5">
+	<div id="todo_index">
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<?php
+		if (isset($_GET['error'])) {
+			echo '<div id="error" style="color:red;">
+					<center>
+						<h4>Contraseña incorrecta, por favor verifique.</h4>
+					</center>
+				</div>';
+		}
+		if(isset($_GET['no_login'])){
+			echo '<div id="error" style="color:red;">
+					<center>
+						<h4>Sesión no iniciada. Ingrese para poder continuar.</h4>
+					</center>
+				</div>';
+		}
+		?>		
+		<br>
+		<br>
+		<form name="frm_login" action="login.php" method="post">
+			<table bgcolor="#DADADA" border="0" cellpadding="0" cellspacing="0" align="center">
+				<tr>
+					<td bgcolor="#CCCCCC" align="center" colspan="2">
+						<b>Ingresar como administrador</b>
+					</td>
+				</tr>
+				<tr>
+					<td align="right">
+						<br>
+						<img src="../imagenes/keys.png"/>
+					</td>
+					<td align="right">
+						<br>
+						<b>Contraseña:</b>&nbsp;
+						<input type="password" maxlength="50" name="pass">&nbsp;
+					</td>					
+				</tr>
+				<tr>
+					<td colspan="2" align="center">
+					<input type="submit" value="I n g r e s a r">
+					<br>
+					<br>
+					</td>
+				</tr>
+			</table>
+		</form>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+	</div>
+	<div style="text-align: center;">
+		<a href="http://alvarogili.com.ar" target="_blank">
+			<small style="font-style: italic;">
+			<span style="font-family: Arial;color: rgb(0, 0, 0);">Diseño&nbsp;
+			</span>
+		</small>
+			<img style="border: 0px solid ; width: 100px; height: 13px;" alt="" src="../imagenes/logo_alvaro_gili.png">
+		</a>
+	 </div>
+  </body>
+</html>

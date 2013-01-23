@@ -1,0 +1,1 @@
+Ver cuando se carga una foto en un evento, reducirla. 

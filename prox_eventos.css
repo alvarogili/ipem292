@@ -1,0 +1,56 @@
+#prox_evento{
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	-webkit-box-shadow:1px 1px 3px #888;
+	-moz-box-shadow:1px 1px 3px #888;		
+	behavior:url(border-radius.htc);
+	color:#fff;
+	background-color:#008f4c;
+	padding:3px;
+	z-index:1;
+	width:80%;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size:16px;
+}
+
+#sin_eventos{
+	-webkit-border-radius:5px;
+	border-radius:5px ;
+	-webkit-box-shadow:1px 1px 3px #888;
+	-moz-box-shadow:1px 1px 3px #888;		
+	behavior:url(border-radius.htc);
+	color:#fff;
+	background-color:#008f4c;
+	padding:3px;
+	z-index:1;
+	width:80%;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size:16px;
+}
+
+#detalle{
+	width:80%;
+	-webkit-border-radius:0px 0px 5px 5px;
+	border-radius:0px 0px 5px 5px;
+	-webkit-box-shadow:1px 1px 3px #888;
+	-moz-box-shadow:1px 1px 3px #888;		
+	behavior:url(border-radius.htc);
+	font-size:14px;
+	text-align:left;
+	padding-left: 10px;
+	padding-right: 10px;
+        background-color: #cddae7;
+}
+
+.PopBoxImageSmall
+{
+   border: none 0px white;
+   cursor: url('imagenes/magplus.cur'), pointer;
+}
+.PopBoxImageLarge
+{
+   border: solid thin #CCCCFF;
+   cursor: url('imagenes/magminus.cur'), pointer;
+}

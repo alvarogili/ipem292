@@ -1,0 +1,27 @@
+.todo_index{
+	max-width: 1024px;
+	width: expression(document.body.clientWidth > 1024? "1024px": "auto");
+	margin: 0 auto;		
+	background-color: #d3d3d3;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	behavior:url(border-radius.htc);
+	-webkit-box-shadow:1px 1px 3px #888;
+	-moz-box-shadow:1px 1px 3px #888;
+	border: 10px solid #d3d3d3;
+}
+
+img#fondo {
+	width:100%; // todo el largo del navegador...
+	height:100%; // todo el alto del navegador...
+	position:absolute; // tendrá una posición absoluta...
+	top:0; // comienza arriba del todo...
+	left:0; // y a la izquierda del todo...
+	overflow:hidden; // ocultamos lo sobrante por si las dudas...	
+}
+
+/*
+img#ingresar{
+	position:absolute;
+}*/
