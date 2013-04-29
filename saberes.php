@@ -20,14 +20,8 @@
                     <div id="cont_parrafo">
                         <br>                        
                         <span>
-                            <span class="sangrar"></span>Nuestra Institución tiene un fuerte con compromiso social y una gran preocupación por la
-							comunidad en general y por sus estudiantes en particular. Es así que desde el Ciclo Lectivo
-							2007 y desde el primer año del Ciclo Básico, un proyecto de trabajo solidario donde se
-							valoran las experiencias de los adultos mayores como saberes vivenciales muy provechosos
-							para las nuevas generaciones.<br>
-							<span class="sangrar"></span>Este proyecto desarrolla a través de diferentes actividades y encuentros con los "Abuelos",
-							quienes muy generosa y cariñosamente nos ayudan a conservar la memoria colectiva de
-							nuestro pueblo y región.<br>
+                            <span class="sangrar"></span>Nuestra institución tiene un fuerte compromiso social y una gran preocupación por la comunidad en general  y por sus estudiantes en particular. Es así que desde el ciclo lectivo 2007 y desde el  primer año del Ciclo Básico, se desarrolla  un proyecto de trabajo solidario donde se valoran las experiencias de los adultos mayores como saberes vivenciales muy provechosos para las nuevas generaciones.<br>
+			    <span class="sangrar"></span>Este proyecto  se desarrolla a través de diferentes actividades y  encuentros con los "Abuelos", quienes muy generosa y cariñosamente nos ayudan a conservar la memoria colectiva de nuestro pueblo y región.<br>
                             <br>
                             <center>
                                 <table>
@@ -52,7 +46,7 @@
                                         <br>
                                     <center>
                                         <span style="font-size:14px;">
-                                            <i>¡Con los abuelos a calcular proporciones!</i>
+                                            <i>¡A calcular proporciones!</i>
                                         </span>                                        
                                     </center>
                                     </td>
