@@ -15,6 +15,26 @@
                 <div id="margen_cuerpo"> </div>                
                 <div id="contenido"> 
 		    <div id="titulo_parrafo">                        
+                        <span>Mercolactea 2013, nuevamente salimos 1º en la Provincia y 2º en la Nación!</span>
+                    </div>
+                    <div id="cont_parrafo">
+                        <center>
+                            <br>   
+                            <p>                       
+                                <img src="imagenes/eventos/culturales/mercolactea2013.jpg" hspace=12>                       
+                            </p>
+                            <br>   
+                            <p>                       
+                                <img src="imagenes/eventos/culturales/mercolactea2013_1.jpg" hspace=12>                       
+                            </p>
+			    <br>   
+                            <p>                       
+                                <img src="imagenes/eventos/culturales/mercolactea2013_2.jpg" hspace=12>                       
+                            </p>
+                        </center>
+                    </div>
+                    <br>
+		    <div id="titulo_parrafo">                        
                         <span>1º puesto en "La justa del Saber Agropecuario 2012" organizado por EduCREA</span>
                     </div>
                     <div id="cont_parrafo">
